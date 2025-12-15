@@ -50,3 +50,141 @@ figcaption, table caption
     text-align: left !important
 .slyder-f__btn i
   color: $color-acento-botones
+
+.icon-list
+  font-size: 10px
+.fw-bold
+  font-weight: 600 !important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones
+    border: 0px !important
+.tabla-a thead
+    background-color: #C5D7F4
+/**************************************************************/
+/***CUSTOM STYLES***/
+/**************************************************************/
+.p-full-width
+  padding: 3rem 2.5rem!important;
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+.bg-fondo
+  &-1
+    background-image: url(../assets/curso/temas/bg/2.svg)
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center
+  &-2
+    background-image: url(../assets/curso/temas/bg/3.png)
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center
+  &-3
+    background-image: url(../assets/curso/temas/bg/4.svg)
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center
+.bg-color
+  &-1
+    background-color: $color-primario
+  &-2
+    background-color: #32DEFF
+  &-3
+    background-color: #B4E6D2
+  &-4
+    background-color: #CBBFDA
+  &-5
+    background-color: #C5D7F4
+
+.br
+  &-1
+    border-radius: 10px !important
+  &-2
+    border-bottom-right-radius: 20px !important
+
+.m-cus
+  &-1
+    margin-left: 30px !important
+  &-2
+    margin-top: 3rem !important;
+.p-cus
+  &-1
+    padding: 3rem !important;
+      
+.hcard
+  &-1
+    height: 350px !important
+.w-cus
+  &-1
+    width: fit-content
+.text-cus
+  &-1
+    font-weight: 600 !important
+    color: $color-sistema-texto !important  
+    text-align: left !important
+  &-2
+    text-align: left !important 
+.titulo-icono
+  background-color: #FFF9E5
+  border-radius: 10px
+  width: fit-content
+  position: relative;
+  left: 12px;
+  &-text
+    margin-right: 10px
+    margin-left: 45px;
+  &-img
+    padding: 0px
+    position: absolute
+    top: -10px
+
+
+    &:before
+      position: relative
+      border-bottom-right-radius: 40px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px
+
+
+/**************************************************************/
+/*Media Queries*/  
+/**************************************************************/
+
+//// DESKTOP SMALL 1400--------------------------------------
+@media screen and (max-width: $bp-min-xxl)
+  .mb-cus
+    margin-bottom: 2em  !important 
+
+//// TABLET 992--------------------------------------
+@media screen and (max-width: $bp-max-md)
+  .mb-cus
+    margin-bottom: 2em  !important  
+  .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info 
+    width: 95% !important;
+  
+//// TABLET MINI 768--------------------------------------
+@media screen and (max-width: $bp-min-md)
+  .mb-cus
+    margin-bottom: 2em  !important 
+  .bloque-texto-g
+        padding-top: 50px !important;
+
+  
+
+//// MOBILE 576--------------------------------------
+@media screen and (max-width: $bp-min-sm)
+  .p-full-width
+   padding: 3rem 3.5rem!important;
+  .mb-cus
+    margin-bottom: 2em  !important
+  .hcard
+    &-2, &-3, &-4
+      height: auto !important
+  .bloque-texto-g
+        padding-top: 20px !important;
+    
