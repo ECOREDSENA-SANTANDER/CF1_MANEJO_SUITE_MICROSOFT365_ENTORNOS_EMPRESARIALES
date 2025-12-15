@@ -3614,10 +3614,10 @@ ecc-jsbn@~0.1.1:
     jsbn "~0.1.0"
     safer-buffer "^2.1.0"
 
-ecored-pkg-fliz@0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/ecored-pkg-fliz/-/ecored-pkg-fliz-0.0.7.tgz#0635d11d4304d4812142f2e9ea900a4aeaea6563"
-  integrity sha512-MvN16sMu1jppmMW7l3Tlge26WWgEwj/6F5labHcQBdj0Bf/8Zd4XVod9cfpBHTpguGq8+KhVI8f2ZafOgRfciw==
+ecored-pkg-fliz@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/ecored-pkg-fliz/-/ecored-pkg-fliz-0.0.9.tgz#31b457285e955ae4d8337245e014d6157c625f07"
+  integrity sha512-WUh63hCD9oaUlJuYhuwIHKFKSs8gVCpquePgWu91V5s2l0TgK8VRx0AIZUmRgCF5Qk6RVTPsJbGgGU8qwrhu4Q==
   dependencies:
     "@fortawesome/fontawesome-free" "^6.5.1"
     "@popperjs/core" "^2.11.8"

@@ -8,19 +8,19 @@
           i.fas.fa-info
       h1 Introducción    
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-10.mb-3.mb-lg-0(data-aos="fade-right")
-        img(src='@/assets/curso/temas/intro/1.png', alt='')
-      .col-lg-8(data-aos="fade-left")
-        p En la actualidad, el trabajo colaborativo se ha convertido en un pilar fundamental para las organizaciones que buscan adaptarse a los entornos digitales y fortalecer su competitividad. La integración de herramientas tecnológicas basadas en la nube ha transformado la manera en que los equipos se comunican, comparten información y desarrollan proyectos, promoviendo la eficiencia, la flexibilidad y la innovación en los procesos laborales. En este escenario, la colaboración digital se consolida como una competencia clave del talento humano en la era de la transformación tecnológica.
-        .row.justify-content-center
-          .col-lg-2.col-md-2.col-3
-            img.w-75.m-auto(src='@/assets/curso/temas/intro/2.png', alt='')
-          .col-lg-10.col-md-10.col-9
-            p El presente componente formativo tiene como propósito desarrollar en los aprendices las competencias necesarias para implementar estrategias de trabajo colaborativo en línea mediante el uso de herramientas de Microsoft 365, especialmente Teams y SharePoint. A través del reconocimiento de sus funcionalidades, los participantes comprenderán cómo estas aplicaciones facilitan la comunicación sincrónica y asincrónica, la gestión documental y la organización de tareas en entornos digitales seguros y dinámicos.
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-11
+          p.mb-0 Este espacio de aprendizaje busca fortalecer la cultura digital de los aprendices mediante la apropiación de herramientas basadas en la nube, esenciales para el funcionamiento de organizaciones modernas, ágiles e interconectadas. A través del uso de aplicaciones como Outlook y OneDrive, se promueve el desarrollo de habilidades para gestionar datos, favorecer la comunicación, dinamizar la productividad y potenciar el trabajo colaborativo en entornos empresariales digitales.
+      .col-sm-12.col-lg-1.d-none.d-lg-block
+        img(src='@/assets/curso/temas/intro/1.svg', alt='')
 
-    .tarjeta.bg-color-acento-contenido.p-4.mb-5(data-aos="fade")
-      p.text-white.mb-0 La formación se orienta desde un enfoque práctico, centrado en la exploración, configuración y aplicación de recursos colaborativos en la nube. De esta forma, los aprendices podrán integrar las herramientas de Microsoft 365 en sus contextos laborales, fortaleciendo la coordinación entre equipos, optimizando la gestión de la información y contribuyendo activamente a la construcción de entornos organizacionales más conectados, eficientes y sostenibles.
+ 
+    .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-4.d-none.d-lg-block
+        img(src='@/assets/curso/temas/intro/2.png', alt='')
+      .col-sm-12.col-lg-8
+          p.mb-0 El contenido se estructura de manera progresiva, iniciando con los fundamentos de la cultura digital y su importancia en la transformación organizacional, para posteriormente abordar las funcionalidades, beneficios y aplicaciones prácticas de Microsoft 365, con énfasis en la gestión del correo electrónico, la organización del tiempo, el almacenamiento en la nube y la administración eficiente de archivos. De este modo, los aprendices podrán aplicar conocimientos y competencias que respondan a las demandas tecnológicas actuales, contribuyendo al mejoramiento continuo de los procesos laborales y al fortalecimiento de la innovación organizacional.
+
 
     .row.justify-content-center.align-items-center           
       .col-lg-12
