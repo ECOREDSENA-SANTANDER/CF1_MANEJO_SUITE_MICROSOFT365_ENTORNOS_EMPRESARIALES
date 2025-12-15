@@ -5,7 +5,31 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Outlook 
+
+
+
+    Separador  
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 3.1 Funciones del correo electrónico
+
+
+    Separador  
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 3.2 Calendario
+
+
+    Separador  
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 3.3 Funciones del calendario
+
+
+
+    Separador  
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2 3.4 Programación de reuniones y eventos
+
+
 
 </template>
 
