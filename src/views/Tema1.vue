@@ -7,14 +7,14 @@
         span 1
       h1 Trabajo colaborativo en entornos digitales 
       
-    .bloque-texto-g.bloque-texto-g--inverso.bg-color-1.p-3.p-sm-4.p-md-5.mb-5.br-2(data-aos="fade")
+    .bloque-texto-g.bloque-texto-g--inverso.bg-color-1.p-3.p-sm-4.p-md-5.mb-5.br-2(data-aos="fade-right")
       .bloque-texto-g__img.br-2.d-none.d-lg-block(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t1/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Se ha convertido en un componente esencial de la vida cotidiana y del funcionamiento de las organizaciones. No solo implica el uso de herramientas tecnológicas, sino una transformación profunda en la forma de pensar, trabajar, comunicarse y aprender. A continuación, se presenta una síntesis estructurada de los elementos clave que definen este concepto y su impacto en los entornos personales y empresariales.
 
-    SlyderF(columnas="col-lg-4 col-md-6" data-aos="fade-down").mb-5
+    SlyderF(columnas="col-lg-4 col-md-6" data-aos="fade-right").mb-5
       .tarjeta.bg-fondo-1.p-4
         .row.justify-content-center.mb-3
           .col-4.col-lg-5.col-md-5
@@ -140,10 +140,10 @@
               p.mb-0 Trabajar de forma colaborativa en línea.
 
 
-    p.mb-5 A continuación, se presentan algunos ejemplos que permiten evidenciar cómo diversas actividades cotidianas y laborales han evolucionado desde su ejecución tradicional hasta su realización mediante recursos digitales. Esta comparación facilita comprender el impacto de la cultura digital en los procesos de comunicación, gestión documental, formación y vida diaria.
-    .titulo-sexto.color-acento-contenido
+    p.mb-5(data-aos="fade-right") A continuación, se presentan algunos ejemplos que permiten evidenciar cómo diversas actividades cotidianas y laborales han evolucionado desde su ejecución tradicional hasta su realización mediante recursos digitales. Esta comparación facilita comprender el impacto de la cultura digital en los procesos de comunicación, gestión documental, formación y vida diaria.
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         p.mb-0  #[b Tabla 1.]  Lista comparativa de actividades
-    .tabla-a.color-acento-contenido.mb-5
+    .tabla-a.color-acento-contenido.mb-5(data-aos="fade-right")
       table(alt="La tabla compara las diferencias entre las prácticas tradicionales y las actuales mediadas por recursos digitales en diversos ámbitos de la vida personal, laboral y educativa. Resalta cómo las herramientas tecnológicas han transformado la comunicación, la gestión documental, la formación y las transacciones financieras, promoviendo la inmediatez, la colaboración y la eficiencia en los procesos cotidianos y organizacionales.")
         thead
           tr
@@ -172,12 +172,12 @@
             td.text-cus-2 Las personas realizan pagos, transferencias y compras a través de plataformas digitales como Nequi, Daviplata o PSE, evidenciando la adopción de la banca digital y la confianza en los servicios en línea.
 
     Separador  
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Importancia de la nube en la transformación organizacional
 
-    p.mb-5 En este apartado, lo primero es comprender qué es la nube y qué se entiende por computación en la nube, de manera que posteriormente se pueda reconocer su importancia en los procesos de transformación organizacional. Por ello, a continuación, se presentan estos dos conceptos:
+    p.mb-5(data-aos="fade-right") En este apartado, lo primero es comprender qué es la nube y qué se entiende por computación en la nube, de manera que posteriormente se pueda reconocer su importancia en los procesos de transformación organizacional. Por ello, a continuación, se presentan estos dos conceptos:
 
-    .tarjeta.bg-fondo-2.p-5.mb-5
+    .tarjeta.bg-fondo-2.p-5.mb-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row.justify-content-center.mb-0
           .col-sm-12.col-lg-8
@@ -200,7 +200,7 @@
             img(src='@/assets/curso/temas/t1/12.png', alt='')
 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/13.png', alt='')
       .col-sm-12.col-lg-7
@@ -211,7 +211,7 @@
               p.mb-0 La nube constituye un recurso fundamental para la transformación organizacional, ya que permite a las empresas operar con mayor flexibilidad, eficiencia y capacidad de colaboración. Su uso facilita el acceso a la información y a múltiples aplicaciones desde cualquier dispositivo y ubicación con conexión a internet, reduciendo la dependencia de infraestructura física y servidores locales. Gracias a su adopción, las organizaciones pueden almacenar grandes volúmenes de datos, compartir archivos en tiempo real, optimizar costos tecnológicos y mejorar la productividad mediante procesos más ágiles y conectados.
         p.mb-0 Del mismo modo, la implementación de servicios en la nube impulsa la transformación digital al favorecer la automatización de procesos y la utilización de herramientas colaborativas como Microsoft 365. En conjunto, estos elementos permiten modificar paradigmas culturales y tecnológicos, fortaleciendo la competitividad, fomentando la innovación y apoyando la adaptación rápida frente a los desafíos del entorno actual propio de la era del conocimiento. 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-lg-5.bg-color-4.br-1.justify-content-center.align-items-center.mb-cus
         .p-4
           p.mb-0 En esencia, la nube se convierte en la columna vertebral de la transformación digital, al posibilitar la optimización de procesos, la mejora de la comunicación y la gestión efectiva de la información. Al adoptarla, las organizaciones disminuyen la dependencia de infraestructuras tradicionales y acceden a recursos tecnológicos más flexibles y escalables.
@@ -220,7 +220,7 @@
       .col-sm-12.col-lg-4
         p.mb-0 Herramientas como Microsoft 365, OneDrive y SharePoint son ejemplos claros de cómo las empresas pueden aprovechar los servicios en la nube para promover la colaboración en tiempo real, el trabajo remoto y la continuidad operativa. Adicionalmente, la nube ofrece mayores niveles de seguridad, mejora la disponibilidad de la información y favorece la consolidación de modelos organizacionales ágiles, competitivos e innovadores.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-lg-8
         p.mb-3 La nube brinda muchos beneficios en la productividad organizacional, al brindarle recursos a las personas y a las empresas para que accedan a información, aplicaciones y servicios desde cualquier lugar y en el momento en que se necesite flexibilizando los procesos y eliminando barreras físicas y temporales, facilitando que los equipos de trabajo puedan ser más dinámicos y apoyarse en forma ágil y colaborativa.
         .row.justify-content-center.mb-3
@@ -234,10 +234,10 @@
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/16.png', alt='')
     Separador  
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Impacto en la productividad
-    p.mb-0 La nube impacta directa y positivamente en la productividad empresarial, aportando beneficios que se transforman en mejoras significativas en las organizaciones (SYCOD, 2025): 
-    .bg-full-width.bg-fondo-3
+    p.mb-0(data-aos="fade-right") La nube impacta directa y positivamente en la productividad empresarial, aportando beneficios que se transforman en mejoras significativas en las organizaciones (SYCOD, 2025): 
+    .bg-full-width.bg-fondo-3(data-aos="fade-right")
         .p-full-width 
           .row.justify-content-center.align-items-center.mb-0
             .col-sm-12.col-lg-10
@@ -280,17 +280,17 @@
 
     
     Separador  
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Impacto en la gestión de la información
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/18.svg', alt='')
       .col-sm-12.col-lg-11
           p.mb-0 Gracias al uso de la nube y a la adopción de la cultura digital, la gestión de la información organizacional ha experimentado una transformación significativa que fortalece la disponibilidad, la integridad y la trazabilidad de los datos. A continuación, se presentan algunos aspectos que consolidan esta gestión y permiten evidenciar cómo se materializa en los entornos empresariales:
   
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
         p.mb-0  #[b Tabla 3.]  Aspectos de la nube que fortalecen la gestión de la información en las empresas
-    .tabla-a.color-acento-contenido.mb-5
+    .tabla-a.color-acento-contenido.mb-5(data-aos="fade-right")
       table(alt="La tabla presenta los aspectos clave de la computación en la nube que fortalecen la gestión de la información en las empresas. Explica cómo el acceso inmediato, la colaboración en tiempo real, la organización estructurada, la trazabilidad, el respaldo, el análisis de datos y la gobernanza contribuyen a mejorar la eficiencia operativa, la seguridad documental y la toma de decisiones estratégicas.")
         thead
           tr
