@@ -170,7 +170,7 @@ export default {
     {
       tema: 'OneDrive',
       referencia:
-        'CM CONSULTING. (2025). ¿Cómo usar Microsoft OneDrive para almacenamiento y cómo compartir archivos? [Video]. YouTube.',
+        'CM CONSULTING. (2025). ¿Cómo usar Microsoft OneDrive para almacenamiento y cómo compartir archivos?.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=KWTDopHFOjw',
     },
@@ -178,7 +178,7 @@ export default {
     {
       tema: 'Microsoft 365',
       referencia:
-        'TecnoMáticas. (2023). Todo sobre Microsoft 365: ¿Qué es y cómo se usa? [Video]. YouTube.',
+        'TecnoMáticas. (2023). Todo sobre Microsoft 365: ¿Qué es y cómo se usa?.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=sfYeYLnvABg',
     },
@@ -186,7 +186,7 @@ export default {
     {
       tema: 'Outlook',
       referencia:
-        'Gauging Gadgets. (2025). Cómo cambiar la vista de Outlook a la normalidad – 2025 [Video]. YouTube.',
+        'Gauging Gadgets. (2025). How to Change Outlook View Back to Normal - 2025.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=kAOsGljcQXc',
     },
@@ -194,7 +194,7 @@ export default {
     {
       tema: 'Outlook',
       referencia:
-        'liberbiz. (2023). Descubre cómo organizar tu correo en Outlook [Video]. YouTube.',
+        'liberbiz. (2023). Descubre cómo organizar tu correo en Outlook.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=thCWn6Sh3V4',
     },
@@ -202,7 +202,7 @@ export default {
     {
       tema: 'Outlook',
       referencia:
-        'Solvetic.com. (2024). Cambiar vista  outlook [Vídeo]. YouTube.',
+        'Solvetic.com. (2024). Cambiar vista  outlook.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=vFkfaLFlXC4',
     },
@@ -210,7 +210,7 @@ export default {
     {
       tema: 'Outlook',
       referencia:
-        'Carlos Castro - Herramientas de Productividad. (2025). Cómo usar el calendario de Outlook [Video]. YouTube.',
+        'Carlos Castro - Herramientas de Productividad. (2025). Cómo usar el calendario de Outlook.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=CUPJpFlpZwE',
     },
@@ -232,9 +232,9 @@ export default {
         'Interacción simultánea entre varios usuarios en un mismo documento o proyecto, favoreciendo la comunicación, la eficiencia y la toma de decisiones colectivas.',
     },
     {
-      termino: 'Computación en la nube (cloud Computing)',
+      termino: 'Computación en la nube (<i>cloud computing</i>)',
       significado:
-        'Modelo tecnológico que permite acceder bajo demanda a recursos como servidores, almacenamiento o software a través de Internet, sin necesidad de infraestructura local.',
+        'Modelo tecnológico que permite acceder bajo demanda a recursos como servidores, almacenamiento o <i>software</i> a través de Internet, sin necesidad de infraestructura local.',
     },
     {
       termino: 'Cultura digital',
@@ -252,7 +252,7 @@ export default {
         'Plataforma en línea de Microsoft que integra herramientas como Word, Excel, PowerPoint, Outlook y OneDrive, orientadas a la productividad, colaboración y gestión empresarial.',
     },
     {
-      termino: 'Nube (cloud)',
+      termino: 'Nube (<i>cloud</i>)',
       significado:
         'Infraestructura virtual que permite almacenar, procesar y acceder a información o servicios a través de Internet, eliminando la dependencia de equipos locales.',
     },
@@ -287,13 +287,13 @@ export default {
       referencia:
         'Cira Apps Limited. (2025). ¿Qué es Microsoft Outlook: Características, precios, Gmail, tips y más? CIRASYNC.',
       link:
-        'https://cirasync.com/es/articulos-blog/microsoft-outlook-caracteristicas/0',
+        'https://cirasync.com/es/articulos-blog/microsoft-outlook-caracteristicas',
     },
     {
       referencia:
         'GoDaddy. (2025). OneDrive: ¿Qué es y cómo funciona el almacenamiento en la nube de Microsoft? GoDaddy Resources - LATAM.',
       link:
-        'https://www.godaddy.com/resources/latam/tecnologia/guardar-archivos-en-la-nube-con-microsoft-office0',
+        'https://www.godaddy.com/resources/latam/tecnologia/guardar-archivos-en-la-nube-con-microsoft-office',
     },
     {
       referencia: 'Google Cloud. (2021). ¿Qué es la computación en la nube?',
@@ -301,17 +301,17 @@ export default {
     },
     {
       referencia: 'HUB Consultores. (2022). Cultura digital.',
-      link: 'https://hubconsultores.com/blog/cultura-digital/0',
+      link: 'https://hubconsultores.com/blog/cultura-digital',
     },
     {
       referencia: 'Microsoft. (2025). ¿Qué es la nube?',
       link:
-        'https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-the-cloud/0',
+        'https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-the-cloud',
     },
     {
       referencia:
         'SYCOD. (2025). Impacto de la nube en la productividad empresarial.',
-      link: 'https://www.sycod.com/blog/productividad-empresarial/0',
+      link: 'https://www.sycod.com/blog/productividad-empresarial',
     },
   ],
   creditos: [
@@ -359,7 +359,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -369,12 +369,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Erika Daniela Manrique Rueda',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: '-- ',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

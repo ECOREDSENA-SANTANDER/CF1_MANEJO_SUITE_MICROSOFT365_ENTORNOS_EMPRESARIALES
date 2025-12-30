@@ -18,7 +18,7 @@
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/t3/2.png', alt='')  
       .col-sm-12.col-lg-7
-        p.mb-4 Más allá del envío y recepción de correos, Outlook favorece la planificación eficiente, ya que integra funciones como la programación de reuniones, recordatorios automáticos y sincronización con Teams y OneDrive. Esto facilita la coordinación de equipos, la administración del tiempo y la productividad personal. Además, ofrece características avanzadas de seguridad, como filtros antiphishing, detección de correos maliciosos, cifrado de mensajes y autenticación multifactorial, garantizando la protección de la información corporativa y la privacidad del usuario.
+        p.mb-4 Más allá del envío y recepción de correos, Outlook favorece la planificación eficiente, ya que integra funciones como la programación de reuniones, recordatorios automáticos y sincronización con Teams y OneDrive. Esto facilita la coordinación de equipos, la administración del tiempo y la productividad personal. Además, ofrece características avanzadas de seguridad, como filtros #[i antiphishing], detección de correos maliciosos, cifrado de mensajes y autenticación multifactorial, garantizando la protección de la información corporativa y la privacidad del usuario.
         .bg-color-3.p-4
           p.mb-0 En consecuencia, Outlook se consolida como una herramienta clave en la comunicación profesional, contribuyendo al flujo de información eficiente, seguro y colaborativo dentro de las organizaciones.
 
@@ -74,7 +74,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/t3/10.svg' alt='')
-            p.mb-0.text-center #[b Seguridad y confidencialidad:] ofrece protección frente a correos no deseados (spam) y posibles amenazas cibernéticas.
+            p.mb-0.text-center #[b Seguridad y confidencialidad:] ofrece protección frente a correos no deseados (#[i spam]) y posibles amenazas cibernéticas.
 
 
     p.mb-5(data-aos='fade-right') En conjunto, estas funciones hacen del correo electrónico de Outlook una herramienta estratégica para la comunicación y la productividad empresarial, fortaleciendo la colaboración y la eficiencia organizacional.
@@ -234,7 +234,7 @@
           .row.justify-content-between.align-items-center.mb-2
             .col.mb-3.mb-sm-0
               p.mb-3.fw-bold Conociendo calendario Outlook
-              p.mb-0  En el siguiente videotutorial explica el calendario de Outlook y cómo crear eventos y reuniones.
+              p.mb-0 El siguiente videotutorial explica el uso del calendario de Outlook para crear y gestionar eventos y reuniones.
             .col-sm-auto
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Conociendo_calendario_Outlook.mp4')" target="_blank")
                 span Ir al sitio

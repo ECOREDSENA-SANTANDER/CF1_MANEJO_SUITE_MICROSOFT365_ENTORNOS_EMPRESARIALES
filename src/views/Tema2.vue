@@ -17,7 +17,7 @@
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src='@/assets/curso/temas/t2/2.svg', alt='')
             .col-sm-12.col-lg-10
-                p.mb-0 Más allá de ser una suite ofimática, Microsoft 365 constituye un ecosistema digital inteligente, interconectado y adaptable, diseñado para transformar la forma en que las personas y las empresas planifican, ejecutan y controlan sus actividades. A través de la integración de herramientas colaborativas, servicios en línea y soluciones de inteligencia artificial, la plataforma facilita el trabajo remoto, el intercambio de conocimiento y la automatización de tareas.
+                p.mb-0 Más allá de ser una #[i suite] ofimática, Microsoft 365 constituye un ecosistema digital inteligente, interconectado y adaptable, diseñado para transformar la forma en que las personas y las empresas planifican, ejecutan y controlan sus actividades. A través de la integración de herramientas colaborativas, servicios en línea y soluciones de inteligencia artificial, la plataforma facilita el trabajo remoto, el intercambio de conocimiento y la automatización de tareas.
     p.mb-0(data-aos="fade-right") Asimismo, su infraestructura en la nube garantiza altos niveles de seguridad, respaldo continuo y cumplimiento normativo, asegurando la protección de los datos corporativos y la continuidad de las operaciones. En este sentido, Microsoft 365 impulsa la transformación digital al ofrecer un entorno de trabajo flexible, accesible y eficiente, donde la tecnología se convierte en un medio para fortalecer la comunicación, la innovación y la toma de decisiones estratégicas en las organizaciones contemporáneas.
 
     Separador  

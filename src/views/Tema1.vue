@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Trabajo colaborativo en entornos digitales 
+      h1 Cultura digital
       
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-1.p-3.p-sm-4.p-md-5.mb-5.br-2(data-aos="fade-right")
       .bloque-texto-g__img.br-2.d-none.d-lg-block(
@@ -54,7 +54,7 @@
             img(src='@/assets/curso/temas/t1/6.svg' alt='')
         .bg-color-2.px-1.py-1.mb-3
           h4.text-center.mb-0 Cómo se refleja en las personas
-        p.mb-0.text-center La cultura digital se evidencia en la forma en que las personas:
+        p.mb-3.text-center La cultura digital se evidencia en la forma en que las personas:
         ul.lista-ul--color.mb-0
           li.d-flex
             i.fas.fa-circle.icon-list
@@ -72,7 +72,7 @@
             img(src='@/assets/curso/temas/t1/7.svg' alt='')
         .bg-color-2.px-1.py-1.mb-3
           h4.text-center.mb-0 En el entorno empresarial
-        p.mb-0.text-center Se refiere a la integración de las tecnologías en procesos como:
+        p.mb-3.text-center Se refiere a la integración de las tecnologías en procesos como:
         ul.lista-ul--color.mb-0
             li.d-flex
                 i.fas.fa-circle.icon-list
@@ -124,7 +124,7 @@
             img(src='@/assets/curso/temas/t1/10.svg' alt='')
         .bg-color-2.px-1.py-1.mb-3
           h4.text-center.mb-0 ¿Cómo se evidencia en la vida diaria?
-        p.mb-0.text-center A través de actividades que antes eran físicas y ahora son digitales, como:
+        p.mb-3.text-center A través de actividades que antes eran físicas y ahora son digitales, como:
         ul.lista-ul--color.mb-0
           li.d-flex
               i.fas.fa-circle.icon-list
@@ -181,7 +181,7 @@
       SlyderA(tipo="b")
         .row.justify-content-center.mb-0
           .col-sm-12.col-lg-8
-            h4 Nube (Cloud)
+            h4 Nube (#[i Cloud])
             p.mb-3 Se conoce como el espacio de almacenamiento y servicios en línea que brinda a las personas y a las empresas servicios como el uso de aplicaciones, almacenamiento de archivos, acceso a recursos informáticos, desde cualquier lugar donde tenga conexión a internet (Microsoft, 2025). En otras palabras, la nube es un entorno para guardar datos y aplicaciones que pueden ser usados o consultados en línea.
             .bg-color-3.px-3.py-4.mb-0.br-1
               p.mb-0 #[b Ejemplo:] cuando una persona guarda fotos o documentos en OneDrive o Google Drive, está usando la nube para almacenamiento.
@@ -191,7 +191,7 @@
 
         .row.justify-content-center.mb-0
           .col-sm-12.col-lg-8
-            h4 Computación en la nube (Cloud Computing)
+            h4 Computación en la nube (#[i Cloud Computing])
             p.mb-3 Son los servicios y recursos tecnológicos como almacenamiento, capacidad de procesamiento o servidores que se ofrecen por medio de internet, de manera flexible y bajo demanda; evitando que las personas o las empresas tengan que adquirir y mantener una infraestructura física, lo que les beneficia al utilizar solo los servicios que necesiten, pagando únicamente por el consumo de lo utilizado (Google Cloud, 2021). Estos servicios van más allá del solo almacenamiento, permitiendo además ejecutar programas, desarrollar aplicaciones, crear servidores virtuales, entre otros servicios, y todo esto sin utilizar una infraestructura física propia.
             .bg-color-3.px-3.py-4.mb-0.br-1
               p.mb-0 #[b Ejemplo:] cuando una empresa utiliza Microsoft Azure o Amazon Web Services (AWS) para ejecutar sus aplicaciones o procesar datos, está usando computación en la nube.

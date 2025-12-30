@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    p En la siguiente estructura se integra el uso de Microsoft 365 como herramienta clave para fortalecer la gestión digital en las organizaciones. A partir de sus ideas centrales (cultura digital, Microsoft 365, Outlook y OneDrive), se evidencian los aportes de esta suite en aspectos como la productividad, la comunicación, el trabajo colaborativo y el manejo seguro de la información. Esta organización temática permite comprender cómo cada elemento contribuye a mejorar los procesos institucionales y a impulsar prácticas más eficientes en entornos digitales.
+    p En la siguiente estructura se integra el uso de Microsoft 365 como herramienta clave para fortalecer la gestión digital en las organizaciones. A partir de sus ideas centrales (cultura digital, Microsoft 365, Outlook y OneDrive), se evidencian los aportes de esta #[i suite] en aspectos como la productividad, la comunicación, el trabajo colaborativo y el manejo seguro de la información. Esta organización temática permite comprender cómo cada elemento contribuye a mejorar los procesos institucionales y a impulsar prácticas más eficientes en entornos digitales.
     .row.justify-content-center.mb-5
       .col-lg-9.p-4
         figure
