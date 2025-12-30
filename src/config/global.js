@@ -201,8 +201,7 @@ export default {
 
     {
       tema: 'Outlook',
-      referencia:
-        'Solvetic.com. (2024). Cambiar vista  outlook.',
+      referencia: 'Solvetic.com. (2024). Cambiar vista  outlook.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=vFkfaLFlXC4',
     },
