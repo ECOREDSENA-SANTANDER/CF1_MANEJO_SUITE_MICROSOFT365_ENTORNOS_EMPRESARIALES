@@ -299,7 +299,8 @@ export default {
       link: 'https://cloud.google.com/learn/what-is-cloud-computing?hl=es-4190',
     },
     {
-      referencia: 'HUB Consultores. (2022). Cultura digital.',
+      referencia:
+        'HUB Consultores. (2022). Cultura digital: ¿cómo Bitrix24 puede acelerar la transformación de tu empresa?',
       link: 'https://hubconsultores.com/blog/cultura-digital',
     },
     {
@@ -339,7 +340,7 @@ export default {
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
