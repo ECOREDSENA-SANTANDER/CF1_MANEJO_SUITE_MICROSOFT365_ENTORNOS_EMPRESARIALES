@@ -88,14 +88,14 @@
             .col.mb-3.mb-sm-0
               p.mb-0.fw-bold Creación de cuenta Outlook 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Creacion_de_cuenta_Outlook.mp4')" target="_blank")
+              a.boton.color-acento-botones(href="https://youtu.be/fPwEywiuDfE" target="_blank")
                 span Ir al sitio
                 i.fas.fa-file-video
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p.mb-0.fw-bold Conociendo la cuenta Outlook
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Conociendo_la_cuenta_Outlook.mp4')" target="_blank")
+              a.boton.color-acento-botones(href="https://youtu.be/bZ-l6FS-jbI" target="_blank")
                 span Ir al sitio
                 i.fas.fa-file-video
 
@@ -236,7 +236,7 @@
               p.mb-3.fw-bold Conociendo calendario Outlook
               p.mb-0 El siguiente videotutorial explica el uso del calendario de Outlook para crear y gestionar eventos y reuniones.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Conociendo_calendario_Outlook.mp4')" target="_blank")
+              a.boton.color-acento-botones(href="https://youtu.be/_E4BuXYviJ0" target="_blank")
                 span Ir al sitio
                 i.fas.fa-file-video
 </template>
