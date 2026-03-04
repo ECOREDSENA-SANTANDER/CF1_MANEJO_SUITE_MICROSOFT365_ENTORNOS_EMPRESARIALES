@@ -12,7 +12,7 @@
         img(src='@/assets/curso/temas/t4/1.svg', alt='') 
       .col-sm-12.col-lg-10
         .bg-color-6.p-4
-          p.mb-0 OneDrive es el servicio de almacenamiento en la nube de Microsoft que forma parte del ecosistema de Microsoft 365, y que permite a los usuarios guardar, sincronizar y compartir archivos de manera segura desde cualquier lugar y dispositivo con conexión a Internet. 
+          p.mb-3 OneDrive es el servicio de almacenamiento en la nube de Microsoft que forma parte del ecosistema de Microsoft 365, y que permite a los usuarios guardar, sincronizar y compartir archivos de manera segura desde cualquier lugar y dispositivo con conexión a Internet. 
           p.mb-0 En el entorno empresarial, OneDrive se ha convertido en una herramienta esencial para la gestión eficiente de la información, ya que posibilita el trabajo colaborativo, el respaldo automático de documentos y el acceso remoto a los recursos digitales de la organización. Su integración con aplicaciones como Word, Excel, PowerPoint, Teams y SharePoint facilita la edición simultánea de archivos y la comunicación fluida entre los miembros del equipo.
     
     .row.justify-content-center.mb-0.align-items-center(data-aos='fade-right')

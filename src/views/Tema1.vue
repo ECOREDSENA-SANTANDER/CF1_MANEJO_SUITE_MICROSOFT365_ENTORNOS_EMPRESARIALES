@@ -220,6 +220,11 @@
       .col-sm-12.col-lg-4
         p.mb-0 Herramientas como Microsoft 365, OneDrive y SharePoint son ejemplos claros de cómo las empresas pueden aprovechar los servicios en la nube para promover la colaboración en tiempo real, el trabajo remoto y la continuidad operativa. Adicionalmente, la nube ofrece mayores niveles de seguridad, mejora la disponibilidad de la información y favorece la consolidación de modelos organizacionales ágiles, competitivos e innovadores.
 
+
+    Separador  
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.2 Impacto en la productividad
+
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-lg-8
         p.mb-3 La nube brinda muchos beneficios en la productividad organizacional, al brindarle recursos a las personas y a las empresas para que accedan a información, aplicaciones y servicios desde cualquier lugar y en el momento en que se necesite flexibilizando los procesos y eliminando barreras físicas y temporales, facilitando que los equipos de trabajo puedan ser más dinámicos y apoyarse en forma ágil y colaborativa.
@@ -233,11 +238,10 @@
           p.mb-0 La nube no solo mejora la gestión del tiempo y la comunicación, adicional a ello, ayudan a impulsar la innovación, al permitir que los colaboradores puedan enfocarse en actividades estratégicas y de mayor valor agregado para la organización.
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/16.png', alt='')
-    Separador  
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Impacto en la productividad
-    p.mb-0(data-aos="fade-right") La nube impacta directa y positivamente en la productividad empresarial, aportando beneficios que se transforman en mejoras significativas en las organizaciones (SYCOD, 2025): 
-    .bg-full-width.bg-fondo-3(data-aos="fade-right")
+  
+    p.mb-3(data-aos="fade-right")  La nube impacta directa y positivamente en la productividad empresarial, aportando beneficios que se transforman en mejoras significativas en las organizaciones (SYCOD, 2025):   
+    
+    .bg-full-width.bg-fondo-3
         .p-full-width 
           .row.justify-content-center.align-items-center.mb-0
             .col-sm-12.col-lg-10

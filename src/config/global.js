@@ -118,7 +118,23 @@ export default {
         numero: '4',
         titulo: 'OneDrive',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Características principales',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Beneficios del almacenamiento personal en la nube',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Gestión de archivos',
+            hash: 't_4_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -166,54 +182,7 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'OneDrive',
-      referencia:
-        'CM CONSULTING. (2025). ¿Cómo usar Microsoft OneDrive para almacenamiento y cómo compartir archivos?.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=KWTDopHFOjw',
-    },
-
-    {
-      tema: 'Microsoft 365',
-      referencia:
-        'TecnoMáticas. (2023). Todo sobre Microsoft 365: ¿Qué es y cómo se usa?.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=sfYeYLnvABg',
-    },
-
-    {
-      tema: 'Outlook',
-      referencia:
-        'Gauging Gadgets. (2025). How to Change Outlook View Back to Normal - 2025.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=kAOsGljcQXc',
-    },
-
-    {
-      tema: 'Outlook',
-      referencia:
-        'liberbiz. (2023). Descubre cómo organizar tu correo en Outlook.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=thCWn6Sh3V4',
-    },
-
-    {
-      tema: 'Outlook',
-      referencia: 'Solvetic.com. (2024). Cambiar vista  outlook.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=vFkfaLFlXC4',
-    },
-
-    {
-      tema: 'Outlook',
-      referencia:
-        'Carlos Castro - Herramientas de Productividad. (2025). Cómo usar el calendario de Outlook.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=CUPJpFlpZwE',
-    },
-  ],
+  complementario: [],
   glosario: [
     {
       termino: 'Acceso remoto',
@@ -285,33 +254,24 @@ export default {
     {
       referencia:
         'Cira Apps Limited. (2025). ¿Qué es Microsoft Outlook: Características, precios, Gmail, tips y más? CIRASYNC.',
-      link:
-        'https://cirasync.com/es/articulos-blog/microsoft-outlook-caracteristicas',
     },
     {
       referencia:
         'GoDaddy. (2025). OneDrive: ¿Qué es y cómo funciona el almacenamiento en la nube de Microsoft? GoDaddy Resources - LATAM.',
-      link:
-        'https://www.godaddy.com/resources/latam/tecnologia/guardar-archivos-en-la-nube-con-microsoft-office',
     },
     {
       referencia: 'Google Cloud. (2021). ¿Qué es la computación en la nube?',
-      link: 'https://cloud.google.com/learn/what-is-cloud-computing?hl=es-4190',
     },
     {
       referencia:
         'HUB Consultores. (2022). Cultura digital: ¿cómo Bitrix24 puede acelerar la transformación de tu empresa?',
-      link: 'https://hubconsultores.com/blog/cultura-digital',
     },
     {
       referencia: 'Microsoft. (2025). ¿Qué es la nube?',
-      link:
-        'https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-the-cloud',
     },
     {
       referencia:
         'SYCOD. (2025). Impacto de la nube en la productividad empresarial.',
-      link: 'https://www.sycod.com/blog/productividad-empresarial',
     },
   ],
   creditos: [
@@ -374,7 +334,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '-- ',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
