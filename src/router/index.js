@@ -5,7 +5,6 @@ import Curso from 'ecored-pkg-fliz/plugin/components/plantilla/Curso.vue'
 import Glosario from 'ecored-pkg-fliz/plugin/components/Glosario.vue'
 import Referencias from 'ecored-pkg-fliz/plugin/components/Referencias.vue'
 import Creditos from 'ecored-pkg-fliz/plugin/components/Creditos.vue'
-import Complementario from 'ecored-pkg-fliz/plugin/components/Complementario.vue'
 
 Vue.use(VueRouter)
 
@@ -66,11 +65,6 @@ const router = new VueRouter({
       path: '/glosario',
       name: 'glosario',
       component: Glosario,
-    },
-    {
-      path: '/complementario',
-      name: 'complementario',
-      component: Complementario,
     },
     {
       path: '/referencias',
