@@ -234,7 +234,7 @@
           .row.justify-content-between.align-items-center.mb-2
             .col.mb-3.mb-sm-0
               p.mb-3.fw-bold Conociendo calendario Outlook
-              p.mb-0 El siguiente videotutorial explica el uso del calendario de Outlook para crear y gestionar eventos y reuniones.
+              p.mb-0 El siguiente videotutorial explica el calendario de Outlook y cómo crear eventos y reuniones.
             .col-sm-auto
               a.boton.color-acento-botones(href="https://youtu.be/_E4BuXYviJ0" target="_blank")
                 span Ir al sitio
