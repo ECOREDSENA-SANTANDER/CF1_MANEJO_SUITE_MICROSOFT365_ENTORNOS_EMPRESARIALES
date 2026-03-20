@@ -103,7 +103,7 @@
           .col-4.col-lg-5.col-md-5
             img(src='@/assets/curso/temas/t1/9.svg' alt='')
         .bg-color-2.px-1.py-1.mb-3
-          h4.text-center.mb-0 Beneficios para las empresas ya que favorece
+          h4.text-center.mb-0 Beneficios para las empresas, ya que favorece
         ul.lista-ul--color.mb-0
           li.d-flex
               i.fas.fa-circle.icon-list
@@ -227,15 +227,15 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-lg-8
-        p.mb-3 La nube brinda muchos beneficios en la productividad organizacional, al brindarle recursos a las personas y a las empresas para que accedan a información, aplicaciones y servicios desde cualquier lugar y en el momento en que se necesite flexibilizando los procesos y eliminando barreras físicas y temporales, facilitando que los equipos de trabajo puedan ser más dinámicos y apoyarse en forma ágil y colaborativa.
+        p.mb-3 La nube brinda muchos beneficios en la productividad organizacional, al brindarle recursos a las personas y a las empresas para que accedan a información, aplicaciones y servicios desde cualquier lugar y en el momento en que se necesite, flexibilizando los procesos y eliminando barreras físicas y temporales, facilitando que los equipos de trabajo puedan ser más dinámicos y apoyarse en forma ágil y colaborativa.
         .row.justify-content-center.mb-3
           .col-sm-12.col-lg-3.d-none.d-lg-block
             img(src='@/assets/curso/temas/t1/17.svg', alt='')
           .col-sm-12.col-lg-9
-              p.mb-0 Al centralizar la información y aportar recursos integrados, la nube evita que se duplique el trabajo, así mismo optimiza procesos y reduce el tiempo que se invierte en tareas administrativas u otras actividades que rigen la operativa del negocio. Entre las más usuales en el grueso de las organizaciones está la  posibilidad de compartir y editar documentos en tiempo real, realizar reuniones virtuales o automatizar procesos, lo cual incrementa la eficiencia en el uso de los recursos.
+              p.mb-0 Al centralizar la información y aportar recursos integrados, la nube evita que se duplique el trabajo; así mismo, optimiza procesos y reduce el tiempo que se invierte en tareas administrativas u otras actividades que rigen la operativa del negocio. Entre las más usuales en el grueso de las organizaciones está la  posibilidad de compartir y editar documentos en tiempo real, llevar a cabo reuniones virtuales o automatizar procesos, lo cual incrementa la eficiencia en el uso de los recursos.
 
         .bg-color-5.p-4.br-1
-          p.mb-0 La nube no solo mejora la gestión del tiempo y la comunicación, adicional a ello, ayudan a impulsar la innovación, al permitir que los colaboradores puedan enfocarse en actividades estratégicas y de mayor valor agregado para la organización.
+          p.mb-0 La nube no solo mejora la gestión del tiempo y la comunicación; adicionalmente, ayuda a impulsar la innovación, al permitir que los colaboradores puedan enfocarse en actividades estratégicas y de mayor valor agregado para la organización.
       .col-sm-12.col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/t1/16.png', alt='')
   

@@ -248,7 +248,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Cira Apps Limited. (2025). ¿Qué es Microsoft Outlook: Características, precios, Gmail, tips y más? CIRASYNC.',
+        'Cira Apps Limited. (2025). Microsoft Outlook: características, precios y consejos. CiraSync.',
     },
     {
       referencia:
@@ -259,7 +259,7 @@ export default {
     },
     {
       referencia:
-        'HUB Consultores. (2022). Cultura digital: ¿cómo Bitrix24 puede acelerar la transformación de tu empresa?',
+        'HUB Consultores. (2022). Cultura digital: ¿Cómo Bitrix24 puede acelerar la transformación de tu empresa?',
     },
     {
       referencia: 'Microsoft. (2025). ¿Qué es la nube?',

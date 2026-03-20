@@ -83,7 +83,7 @@
     .row.justify-content-center.mb-5(data-aos='fade-right')
       .col-sm-12.col-lg-5.mb-cus
         .bg-color-5.p-4
-          p.mb-0 El almacenamiento en la nube permite guardar información en servidores remotos accesibles por internet, eliminando la necesidad de #[i hardware] físico y facilitando el acceso desde cualquier dispositivo conectado. En este sentido, OneDrive ofrece una solución integral para almacenar, sincronizar, editar y compartir archivos; además su integración con Windows y Microsoft 365, junto con funciones colaborativas en tiempo real y altos estándares de seguridad, lo posicionan como una de las herramientas más utilizadas por empresas y usuarios individuales (GoDaddy, 2025).
+          p.mb-0 El almacenamiento en la nube permite guardar información en servidores remotos accesibles por internet, eliminando la necesidad de #[i hardware] físico y facilitando el acceso desde cualquier dispositivo conectado. En este sentido, OneDrive ofrece una solución integral para almacenar, sincronizar, editar y compartir archivos; además, su integración con Windows y Microsoft 365, junto con funciones colaborativas en tiempo real y altos estándares de seguridad, lo posicionan como una de las herramientas más utilizadas por empresas y usuarios individuales (GoDaddy, 2025).
       .col-sm-12.col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/t4/4.svg', alt='')
 
