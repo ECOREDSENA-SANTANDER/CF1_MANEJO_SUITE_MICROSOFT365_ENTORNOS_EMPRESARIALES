@@ -232,7 +232,7 @@
           .col-sm-12.col-lg-3.d-none.d-lg-block
             img(src='@/assets/curso/temas/t1/17.svg', alt='')
           .col-sm-12.col-lg-9
-              p.mb-0 Al centralizar la información y aportar recursos integrados, la nube evita que se duplique el trabajo; así mismo, optimiza procesos y reduce el tiempo que se invierte en tareas administrativas u otras actividades que rigen la operativa del negocio. Entre las más usuales en el grueso de las organizaciones está la  posibilidad de compartir y editar documentos en tiempo real, llevar a cabo reuniones virtuales o automatizar procesos, lo cual incrementa la eficiencia en el uso de los recursos.
+              p.mb-0 Al centralizar la información y aportar recursos integrados, la nube evita que se duplique el trabajo; así mismo, optimiza procesos y reduce el tiempo que se invierte en tareas administrativas u otras actividades que rigen la operativa del negocio. Entre las más usuales en el grueso de las organizaciones está la  posibilidad de compartir y editar documentos en tiempo real, realizar reuniones virtuales o automatizar procesos, lo cual incrementa la eficiencia en el uso de los recursos.
 
         .bg-color-5.p-4.br-1
           p.mb-0 La nube no solo mejora la gestión del tiempo y la comunicación; adicionalmente, ayuda a impulsar la innovación, al permitir que los colaboradores puedan enfocarse en actividades estratégicas y de mayor valor agregado para la organización.
